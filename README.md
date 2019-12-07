@@ -1,2 +1,2 @@
-# APLICACI-N-DE-UN-CONTROL-LQR-PARA-UN-SISTEMA-PENDULO-INVERTIDO
+
 https://www.youtube.com/watch?v=zHyjjZ9aD2A
